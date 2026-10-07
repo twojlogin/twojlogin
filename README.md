@@ -83,11 +83,3 @@ wykrywa: [README](https://github.com/twojlogin/awesome-core#readme)
 
 GitHub: [twojlogin](https://github.com/twojlogin) ·
 profil: [twojlogin.github.io](https://twojlogin.github.io/)
-
-<!--
-  Kopia profilu GitHub (twojlogin/twojlogin). Trzymam ją tutaj, żeby dało się
-  edytować bez przeglądarki. Aby wrzucić zmiany na profil:
-
-      cp profile/README.md /tmp/profrepo/README.md
-      cd /tmp/profrepo && git add README.md && git commit -m "profil" && git push
--->
