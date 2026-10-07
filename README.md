@@ -10,11 +10,11 @@ Główne projekty:
 | Projekt | Co to robi | Status |
 |---|---|---|
 | **[awesome-core](https://github.com/twojlogin/awesome-core)** | Katalog narzędzi z awesome list — 186 861 narzędzi z 829 list, ranking oparty o zgodę niezależnych kuratorów. CLI, TUI, Web, MCP. Python stdlib + jedna zależność. | ✅ publiczne |
-| `ArekBox-Installer` | Modularny menadżer zestawów narzędzi na Linuksie — jeden skrypt, bez zależności | przenoszone tutaj |
-| `security-rocket` | Hardening Linuksa w bashu: SSH, UFW, AppArmor, sysctl, AIDE — z preflightem, backupem i rollbackiem | przenoszone tutaj |
-| `WindowsToolkit-Pro` | Skrypty PowerShell do Windowsa: bezpieczeństwo, optymalizacja, setup | przenoszone tutaj |
-| `matrix-command` | Dashboard reconu bezpieczeństwa: backend FastAPI + interfejs webowy | przenoszone tutaj |
-| `softhunt` | Wyszukiwanie i odkrywanie oprogramowania między platformami | przenoszone tutaj |
+| `ArekBox-Installer` | Modularny menadżer zestawów narzędzi na Linuksie — jeden skrypt, bez zależności
+| `security-rocket` | Hardening Linuksa w bashu: SSH, UFW, AppArmor, sysctl, AIDE — z preflightem, backupem i rollbackiem
+| `WindowsToolkit-Pro` | Skrypty PowerShell do Windowsa: bezpieczeństwo, optymalizacja, setup
+| `matrix-command` | Dashboard reconu bezpieczeństwa: backend FastAPI + interfejs webowy
+| `softhunt` | Wyszukiwanie i odkrywanie oprogramowania między platformami
 
 Linki do projektów po migracji pojawią się tutaj.
 
@@ -83,3 +83,11 @@ wykrywa: [README](https://github.com/twojlogin/awesome-core#readme)
 
 GitHub: [twojlogin](https://github.com/twojlogin) ·
 profil: [twojlogin.github.io](https://twojlogin.github.io/)
+
+<!--
+  Kopia profilu GitHub (twojlogin/twojlogin). Trzymam ją tutaj, żeby dało się
+  edytować bez przeglądarki. Aby wrzucić zmiany na profil:
+
+      cp profile/README.md /tmp/profrepo/README.md
+      cd /tmp/profrepo && git add README.md && git commit -m "profil" && git push
+-->
