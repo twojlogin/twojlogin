@@ -28,8 +28,6 @@ izolowanym środowisku, licencje i opisy po angielsku dodane.
 | **[WindowsToolkit-Pro](https://github.com/technoporada/WindowsToolkit-Pro)** | Zestaw skryptów PowerShell do Windowsa: bezpieczeństwo, optymalizacja, konfiguracja środowiska. | brak (sprawdzona składnia skryptów) |
 
 
----|---|---|
-| **[awesome-core](https://github.com/twojlogin/awesome-core)** | Katalog narzędzi z awesome list — 187 666 narzędzi z 829 list, ranking oparty o zgodę niezależnych kuratorów. CLI, TUI, Web, MCP. Python stdlib + jedna zależność. | ✅ publiczne |
 
 ---
 
