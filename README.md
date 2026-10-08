@@ -46,8 +46,9 @@ punktację da się rozłożyć (`awesome why nmap`).
 
 - **187 666 narzędzi** z **829 list** (1 032 pobrane), 216 383 wzmianek, 81 języków
 - **SQLite + FTS5** zamiast plików JSON — 234.5 MB danych, milisekundowe
-  wyszukiwanie (3–16 ms), indeksy i transakcje, żeby przerwany build nie
-  zniszczył bazy
+  wyszukiwanie (3–16 ms), indeksy i transakcje — kasowanie i wstawianie idą
+  w jednej transakcji, więc przerwany build zostawia poprzednią bazę (test
+  `test_interrupted_build_keeps_old_data`)
 - **Własny parser Markdown** (linki, tabele, badge'e, kod) + filtr śmieci:
   19 300 odrzuconych pozycji (reklamy, artykuły, sklepy, martwe subdomeny)
 - **Detekcja kopii list**: trzy listy kopiujące jedną to nie trzy niezależne
