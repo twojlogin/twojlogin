@@ -10,6 +10,7 @@ Główne projekty:
 | Projekt | Co to robi |
 |---|---|
 | **[awesome-core](https://github.com/twojlogin/awesome-core)** | Katalog narzędzi z awesome list — **187 666 narzędzi z 829 list**, ranking oparty o zgodę niezależnych kuratorów, nie o gwiazdki list. CLI, TUI, Web, MCP. Czysty stdlib + jedna zależność, 106 testów, offline po pierwszym pobraniu. |
+| **[MailHunterPro](https://github.com/twojlogin/MailHunterPro)** | Analizator phishingu w skrzynce e-mail: nagłówki SPF/DKIM/DMARC, ukryta treść, trackery, podszywanie się pod marki, wyciąganie IOC. 14 serwerów IMAP, wiele kont na providerze, feed 141k zagrożeń offline, opcjonalny MCP. **71 testów**; ścieżka IMAP i CLI nieprzetestowane — opisane w README. |
 | **[ROZDANIA](https://github.com/twojlogin/ROZDANIA)** | Agregator giveawayów i darmowych pakietów (archive.org, Epic, IndieGala, GamerPower) z **osobnym krokiem weryfikacji**, który otwiera stronę każdej oferty. 624 paczki, 49 potwierdzonych ofert. Zero zależności zewnętrznych. |
 | **[matrixhunt-ultimate](https://github.com/twojlogin/matrixhunt-ultimate)** | Lokalna aplikacja webowa: scrapery, dashboard, **proxy stron z sanacją HTML**, 30 tras API, token na zmiany stanu. React w vendoringu, żeby działało offline. |
 | **[Case study: audyt pracy AI](https://github.com/twojlogin/awesome-core/blob/main/docs/case-study-audyt-ai.md)** | Co okazało się nieprawdziwe w kodzie i dokumentacji napisanych przez model: 6 kłamstw w dokumentacji, martwa komenda, wyciek ścieżki z katalogu domowego do publicznego repo, ranking mylący się w 2/15 znanych narzędziach — i metoda, która to wykrywa. |
@@ -18,6 +19,11 @@ Główne projekty:
 
 Przejrzane: sprawdzone pod kątem wyciekniętych sekretów, uruchomione w
 izolowanym środowisku, licencje i opisy po angielsku dodane.
+
+Uwaga o kolejności: `MailHunterPro` (wyżej) to ta sama dziedzina, ale na
+`twojlogin`, z 71 testami i działającym uruchomieniem. Poniższe repozytoria
+zostają tu, bo mają historię — ale przy porównywaniu to MailHunterPro jest
+najdalej z tych dwóch.
 
 | Projekt | Co to robi | Testy |
 |---|---|---|
