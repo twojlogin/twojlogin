@@ -12,8 +12,6 @@ Nie chodzi o to, żeby teoretyzować o idealnym kodzie, tylko żeby wymyślić n
   * Ranking oparty o niezależny konsensus kuratorów, automatyczne wykrywanie farm SEO (`suspected_farms`), audyt autopromocji oraz lokalny skaner wycieków sekretów (`awesome leaks --readmes`).
   * **122 testy automatyczne** w GitHub Actions + CodeQL.
 
-* **[Muzeum Areka (`twojlogin.github.io`)](https://github.io)** — interaktywne portfolio i archiwum eksperymentów z AI: gry przeglądarkowe (HTML/JS), *AI Game Arena*, *Prompt Lab* oraz projekty techniczne.
-
 ---
 
 ### 🛠 Jak pracuję
